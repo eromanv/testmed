@@ -31,15 +31,15 @@ Copy code
 ## Запуск приложения
 ### Клонируйте репозиторий:
 
-git clone https://github.com/your-username/your-repository.git
+```git clone https://github.com/your-username/your-repository.git
 
 ### Перейдите в директорию проекта:
 
-cd your-repository
+```cd your-repository
 
 ### Запустите приложение FastAPI:
 
-uvicorn main:app --reload
+```uvicorn main:app --reload
 
 Откройте веб-браузер и перейдите по адресу http://127.0.0.1:8000/ для доступа к документации по API.
 
